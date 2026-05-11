@@ -239,9 +239,3 @@ MIT License
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
-
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- 邮箱：your@email.com
-- GitHub：https://github.com/yourname/MyRpc
