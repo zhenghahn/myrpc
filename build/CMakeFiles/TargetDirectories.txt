@@ -1,0 +1,9 @@
+/home/llzh/Krpc/build/CMakeFiles/edit_cache.dir
+/home/llzh/Krpc/build/CMakeFiles/rebuild_cache.dir
+/home/llzh/Krpc/build/src/CMakeFiles/krpc_core.dir
+/home/llzh/Krpc/build/src/CMakeFiles/edit_cache.dir
+/home/llzh/Krpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/llzh/Krpc/build/example/CMakeFiles/server.dir
+/home/llzh/Krpc/build/example/CMakeFiles/client.dir
+/home/llzh/Krpc/build/example/CMakeFiles/edit_cache.dir
+/home/llzh/Krpc/build/example/CMakeFiles/rebuild_cache.dir

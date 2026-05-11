@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/Krpcapplication.cc.o -c /home/llzh/Krpc/src/Krpcapplication.cc",
+  "file": "/home/llzh/Krpc/src/Krpcapplication.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/Krpcchannel.cc.o -c /home/llzh/Krpc/src/Krpcchannel.cc",
+  "file": "/home/llzh/Krpc/src/Krpcchannel.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/Krpcconfig.cc.o -c /home/llzh/Krpc/src/Krpcconfig.cc",
+  "file": "/home/llzh/Krpc/src/Krpcconfig.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/Krpccontroller.cc.o -c /home/llzh/Krpc/src/Krpccontroller.cc",
+  "file": "/home/llzh/Krpc/src/Krpccontroller.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/Krpcheader.pb.cc.o -c /home/llzh/Krpc/src/Krpcheader.pb.cc",
+  "file": "/home/llzh/Krpc/src/Krpcheader.pb.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/Krpcprovider.cc.o -c /home/llzh/Krpc/src/Krpcprovider.cc",
+  "file": "/home/llzh/Krpc/src/Krpcprovider.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/src",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/krpc_core.dir/zookeeperutil.cc.o -c /home/llzh/Krpc/src/zookeeperutil.cc",
+  "file": "/home/llzh/Krpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/example",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=gnu++11 -o CMakeFiles/server.dir/callee/Kserver.cc.o -c /home/llzh/Krpc/example/callee/Kserver.cc",
+  "file": "/home/llzh/Krpc/example/callee/Kserver.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/example",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=gnu++11 -o CMakeFiles/server.dir/user.pb.cc.o -c /home/llzh/Krpc/example/user.pb.cc",
+  "file": "/home/llzh/Krpc/example/user.pb.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/example",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=gnu++11 -o CMakeFiles/client.dir/caller/Kclient.cc.o -c /home/llzh/Krpc/example/caller/Kclient.cc",
+  "file": "/home/llzh/Krpc/example/caller/Kclient.cc"
+},
+{
+  "directory": "/home/llzh/Krpc/build/example",
+  "command": "/usr/bin/c++ -DZOO_ENABLE_SYNC_API -I/home/llzh/Krpc/src/include -g -std=gnu++11 -o CMakeFiles/client.dir/user.pb.cc.o -c /home/llzh/Krpc/example/user.pb.cc",
+  "file": "/home/llzh/Krpc/example/user.pb.cc"
+}
+]
